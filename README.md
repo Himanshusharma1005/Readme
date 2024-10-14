@@ -6,9 +6,9 @@
 I'm a sophomore Computer Science student and an aspiring Machine Learning Engineer that loves to explore new tech and build cool products. I enjoy learning about space too.
 
 - 🌱 I’m currently learning how AI works.
-- 📫 How to reach me: Email me at <a href="mailto:himanshusharma5856@gmail.com" style="color: yellowgreen">krisharma012005@gmail.com</a>
+- 📫 How to reach me: Email me at <a href="mailto:himanshusharma5856@gmail.com" style="color: yellowgreen">himanshusharma5856@gmail.com</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't know lol. Ask <a href="https://github.com/krisharma001" style="color: white">@krisharma001</a
+- ⚡ Fun fact: I don't know lol. Ask <a href="https://github.com/krisharma001" style="color: white">@krisharma001
 
 
 <h2>👇🏼&nbsp; You can find me here</h2>
